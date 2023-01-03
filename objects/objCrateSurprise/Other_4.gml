@@ -1,0 +1,3 @@
+action = function() {
+	destroy();
+}

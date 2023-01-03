@@ -1,0 +1,11 @@
+[1.0.0]:
+-Public release
+
+[0.9.9]
+-Implemented online functionality using IWPO servers
+-Different platform behavior
+-Added misc SFX
+-Changed minor stuff
+
+[0.9.0]:
+-Done all the basic stuff for a functional engine

@@ -1,0 +1,5 @@
+layers = [
+	"Jungle",
+	"Palmtrees",
+	"Stars"
+];

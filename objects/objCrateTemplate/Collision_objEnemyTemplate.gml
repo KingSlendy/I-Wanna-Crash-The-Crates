@@ -1,0 +1,3 @@
+if (other.flying) {
+	smash();
+}
